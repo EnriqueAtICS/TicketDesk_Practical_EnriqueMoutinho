@@ -697,6 +697,7 @@
     <EmbeddedResource Include="Views\TicketCenter\Index.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Index.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Shared\Error.de-DE.resx" />
     <EmbeddedResource Include="Views\Ticket\Index.de-DE.resx" />
